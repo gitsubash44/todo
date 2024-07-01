@@ -1,6 +1,7 @@
 # todo
 
 A new Flutter project.
+TODO app, we can use in normal dally works. 
 
 ## Getting Started
 
